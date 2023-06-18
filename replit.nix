@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.nano
     pkgs.strace
     pkgs.python310Full
     pkgs.replitPackages.prybar-python310

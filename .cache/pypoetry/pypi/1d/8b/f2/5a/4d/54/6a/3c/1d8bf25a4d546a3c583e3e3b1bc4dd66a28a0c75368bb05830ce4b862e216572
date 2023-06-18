@@ -1,0 +1,1 @@
+9999999999{"name": "jose", "version": "1.0.0", "summary": "An implementation of the JOSE draft", "platform": "UNKNOWN", "requires_dist": ["pycrypto >= 2.6"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}
